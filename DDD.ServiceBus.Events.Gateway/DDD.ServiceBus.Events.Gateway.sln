@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDD.ServiceBus.Events.Gateway", "DDD.ServiceBus.Events.Gateway.csproj", "{68859EF2-7B75-4388-8E33-6F79C84739B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68859EF2-7B75-4388-8E33-6F79C84739B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68859EF2-7B75-4388-8E33-6F79C84739B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68859EF2-7B75-4388-8E33-6F79C84739B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68859EF2-7B75-4388-8E33-6F79C84739B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D2C16FB-40A5-4C22-AC3E-B6FC589C1C71}
+	EndGlobalSection
+EndGlobal
